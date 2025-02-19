@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class FlutterPackageShorebirdTest {
-  MaterialColor fetchcolor() {
+  static MaterialColor fetchcolor() {
     return Colors.green;
   }
 }
