@@ -14,5 +14,6 @@ class FlutterPackageShorebirdTest {
     {"icon": Icons.person, "title": "Profile"},
     {"icon": Icons.settings, "title": "Settings"},
     {"icon": Icons.logout, "title": "Logout"},
+    {"icon": Icons.search, "title": "Search"},
   ];
 }
